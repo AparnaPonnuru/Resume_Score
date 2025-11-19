@@ -1,0 +1,51 @@
+{
+    "USA": "United States",
+    "U.S.": "United States",
+    "U.S.A.": "United States",
+    "America": "United States",
+    "United States of America": "United States",
+
+    "UK": "United Kingdom",
+    "U.K.": "United Kingdom",
+    "England": "United Kingdom",
+    "Great Britain": "United Kingdom",
+    "Britain": "United Kingdom",
+
+    "Bharat": "India",
+    "Hindustan": "India",
+
+    "Deutschland": "Germany",
+    "Federal Republic of Germany": "Germany",
+
+    "España": "Spain",
+    "Italia": "Italy",
+    "Brasil": "Brazil",
+    "México": "Mexico",
+    "Estados Unidos Mexicanos": "Mexico",
+
+    "UAE": "United Arab Emirates",
+    "U.A.E.": "United Arab Emirates",
+    "Emirates": "United Arab Emirates",
+
+    "KSA": "Saudi Arabia",
+    "Kingdom of Saudi Arabia": "Saudi Arabia",
+
+    "China": "China",
+    "PRC": "China",
+    "People's Republic of China": "China",
+
+    "Hellas": "Greece",
+    "Holland": "Netherlands",
+    "Nederland": "Netherlands",
+
+    "Schweiz": "Switzerland",
+    "Suisse": "Switzerland",
+    "Svizzera": "Switzerland",
+
+    "Burma": "Myanmar",
+    "Czechia": "Czech Republic",
+    "Côte d'Ivoire": "Ivory Coast",
+    "Persia": "Iran",
+    "Zaire": "Democratic Republic of the Congo",
+    "Ceylon": "Sri Lanka"
+}
